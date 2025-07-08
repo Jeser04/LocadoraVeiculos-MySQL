@@ -25,7 +25,7 @@ Inclui também exemplos de **inserts** e **consultas SQL** para:
 3. Inclui dados fictícios para simulação e testes.
 
 ## 📚 Tecnologias
-- MySQL 8.x
+- MySQL 8
 - SQL ANSI
 
 ---
